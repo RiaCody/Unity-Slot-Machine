@@ -1,0 +1,16 @@
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+.vs/
+*.csproj
+*.sln
+*.user
+*.unitypackage
+*.meta
+*.DS_Store
+Thumbs.db
